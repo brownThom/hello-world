@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+A beginner in developing who wishes to learn more
